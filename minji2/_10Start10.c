@@ -14,8 +14,6 @@ int main10() {
 	sub = num1 - num2;
 	printf("%d", sub);
 
-
-
 	return 0;
 }
 
